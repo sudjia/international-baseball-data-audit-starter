@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+data/raw/
+data/processed/
+*.duckdb
+*.duckdb.wal
+*.sqlite
+*.sqlite3
+notebooks/*.ipynb
+reports/generated/
+.DS_Store

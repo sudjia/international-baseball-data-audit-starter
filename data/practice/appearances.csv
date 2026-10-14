@@ -1,0 +1,6 @@
+player_id,game_id,practice_at_bats,practice_hits
+P0,G0,4,1
+P0,G1,3,0
+P1,G0,4,2
+P1,G1,0,0
+P2,G1,3,1
